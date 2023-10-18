@@ -113,6 +113,12 @@ main {
     color: #ffffff;
 }
 
+/* Why Love Running With Us styles */
+#reasons {
+    
+}
+
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -168,7 +174,7 @@ main {
     #cover-text {
         width: 300px;
         right: 50px;
-        
+
     }
 }
 
